@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**sohan724code/sohan724code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jahidul Islam Sohan. MERN Stack Developer.
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Online-reacharge](https://re-charge-11075.web.app/), an online recharge site made with React,mongodb,Nodejs
+* [Eggy!](https://eggy-website.netlify.app/home), an online restaurent site made with React,mongodb,Nodejs
+* [Good Makeup](https://vigilant-shockley-e63c57.netlify.app/), an online makeup selling site.
+
+And see more projects on this GitHub profile!
+
+## Contact Me
+
+You can reach me at [My Portfolio](https://sohan-portfolio.netlify.app/).
